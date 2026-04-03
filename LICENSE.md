@@ -1,4 +1,4 @@
-
+Comet Executor — #1 roblox executor with auto-execute and infinite scripts for 2026 Comet is a Roblox executor with auto-execute features, providing users with a seamless and efficient scripting experience in Roblox.
 
 
 ---
